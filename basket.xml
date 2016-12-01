@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_60" class="java.beans.XMLDecoder">
+ <object class="ListaEquipos" id="ListaEquipos0">
+  <void property="lista">
+   <void method="add">
+    <object class="Equipo">
+     <void property="creacion">
+      <string>27/02/1990</string>
+     </void>
+     <void property="id">
+      <long>1</long>
+     </void>
+     <void property="jugadores">
+      <object class="ListaJugadores" id="ListaJugadores0">
+       <void property="lista">
+        <void method="add">
+         <object class="Jugador">
+          <void property="asistenciasTotales">
+           <int>200</int>
+          </void>
+          <void property="canastasTotales">
+           <int>100</int>
+          </void>
+          <void property="nacimiento">
+           <string>27/09/2900</string>
+          </void>
+          <void property="nombre">
+           <string>jugador1</string>
+          </void>
+          <void property="posicion">
+           <string>Base</string>
+          </void>
+          <void property="rebotesTotales">
+           <int>300</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="Jugador">
+          <void property="asistenciasTotales">
+           <int>200</int>
+          </void>
+          <void property="canastasTotales">
+           <int>400</int>
+          </void>
+          <void property="nacimiento">
+           <string>27/08/1889</string>
+          </void>
+          <void property="nombre">
+           <string>jugador2</string>
+          </void>
+          <void property="posicion">
+           <string>Pivot</string>
+          </void>
+          <void property="rebotesTotales">
+           <int>300</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="Jugador">
+          <void property="asistenciasTotales">
+           <int>200</int>
+          </void>
+          <void property="canastasTotales">
+           <int>120</int>
+          </void>
+          <void property="nacimiento">
+           <string>27/06/1887</string>
+          </void>
+          <void property="nombre">
+           <string>jugador3</string>
+          </void>
+          <void property="posicion">
+           <string>ala</string>
+          </void>
+          <void property="rebotesTotales">
+           <int>150</int>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+     <void property="localidad">
+      <string>barcelona</string>
+     </void>
+     <void property="nombre">
+      <string>Equipo1</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Equipo">
+     <void property="creacion">
+      <string>08/05/1998</string>
+     </void>
+     <void property="id">
+      <long>2</long>
+     </void>
+     <void property="jugadores">
+      <object class="ListaJugadores" id="ListaJugadores1">
+       <void property="lista">
+        <void method="add">
+         <object class="Jugador">
+          <void property="asistenciasTotales">
+           <int>300</int>
+          </void>
+          <void property="canastasTotales">
+           <int>200</int>
+          </void>
+          <void property="nacimiento">
+           <string>27/07/1778</string>
+          </void>
+          <void property="nombre">
+           <string>jugador4</string>
+          </void>
+          <void property="posicion">
+           <string>base</string>
+          </void>
+          <void property="rebotesTotales">
+           <int>150</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="Jugador">
+          <void property="asistenciasTotales">
+           <int>150</int>
+          </void>
+          <void property="canastasTotales">
+           <int>200</int>
+          </void>
+          <void property="nacimiento">
+           <string>22/09/1995</string>
+          </void>
+          <void property="nombre">
+           <string>jugador5</string>
+          </void>
+          <void property="posicion">
+           <string>pivot</string>
+          </void>
+          <void property="rebotesTotales">
+           <int>230</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="Jugador">
+          <void property="asistenciasTotales">
+           <int>200</int>
+          </void>
+          <void property="canastasTotales">
+           <int>300</int>
+          </void>
+          <void property="nacimiento">
+           <string>26/07/1993</string>
+          </void>
+          <void property="nombre">
+           <string>Jugador6</string>
+          </void>
+          <void property="posicion">
+           <string>ala</string>
+          </void>
+          <void property="rebotesTotales">
+           <int>120</int>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+     <void property="localidad">
+      <string>Madrid</string>
+     </void>
+     <void property="nombre">
+      <string>Equipo2</string>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="Equipo">
+     <void property="creacion">
+      <string>21/02/1990</string>
+     </void>
+     <void property="id">
+      <long>3</long>
+     </void>
+     <void property="jugadores">
+      <object class="ListaJugadores" id="ListaJugadores2">
+       <void property="lista">
+        <void method="add">
+         <object class="Jugador">
+          <void property="asistenciasTotales">
+           <int>122</int>
+          </void>
+          <void property="canastasTotales">
+           <int>230</int>
+          </void>
+          <void property="nacimiento">
+           <string>09/11/1990</string>
+          </void>
+          <void property="nombre">
+           <string>Jugador7</string>
+          </void>
+          <void property="posicion">
+           <string>base</string>
+          </void>
+          <void property="rebotesTotales">
+           <int>150</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="Jugador">
+          <void property="asistenciasTotales">
+           <int>300</int>
+          </void>
+          <void property="canastasTotales">
+           <int>200</int>
+          </void>
+          <void property="nacimiento">
+           <string>27/06/1889</string>
+          </void>
+          <void property="nombre">
+           <string>Jugador8</string>
+          </void>
+          <void property="posicion">
+           <string>pivot</string>
+          </void>
+          <void property="rebotesTotales">
+           <int>120</int>
+          </void>
+         </object>
+        </void>
+        <void method="add">
+         <object class="Jugador">
+          <void property="asistenciasTotales">
+           <int>233</int>
+          </void>
+          <void property="canastasTotales">
+           <int>130</int>
+          </void>
+          <void property="nacimiento">
+           <string>26/02/1990</string>
+          </void>
+          <void property="nombre">
+           <string>jugador9</string>
+          </void>
+          <void property="posicion">
+           <string>ala</string>
+          </void>
+          <void property="rebotesTotales">
+           <int>150</int>
+          </void>
+         </object>
+        </void>
+       </void>
+      </object>
+     </void>
+     <void property="localidad">
+      <string>Malaga</string>
+     </void>
+     <void property="nombre">
+      <string>Equipo3</string>
+     </void>
+    </object>
+   </void>
+  </void>
+ </object>
+</java>
